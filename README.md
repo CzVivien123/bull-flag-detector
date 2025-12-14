@@ -6,8 +6,8 @@
 ## Project Information
 
 - **Selected Topic**: Bull-flag detector  
-- **Student Name**: Cz. Vivien  
-- **Aiming for +1 Mark**: Yes  
+- **Student Name**: Czofa Vivien  
+- **Aiming for +1 Mark**: No  
 
 ---
 
